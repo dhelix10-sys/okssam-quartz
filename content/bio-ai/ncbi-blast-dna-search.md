@@ -1,7 +1,7 @@
 ---
 title: "NCBI와 BLAST 쉽게 이해하기: DNA 서열로 생물 정보를 찾는 방법"
 date: 2026-05-12
-description: "고등학교 생명과학 수업에서 NCBI와 BLAST를 활용해 DNA 염기서열을 검색하고, 생물 종과 유전자 정보를 해석하는 방법을 정리했습니다."
+description: "NCBI와 BLAST를 활용해 DNA 염기서열을 검색하고, 생물 종과 유전자 정보를 해석하는 과정을 생명과학 수업 관점에서 정리했습니다."
 tags:
   - 바이오AI
   - 생명과학

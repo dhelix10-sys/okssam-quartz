@@ -129,3 +129,7 @@ Co-Scientist는 논문과 데이터를 읽고, 새로운 연구 가설을 만들
 
 AI가 과학의 답을 대신 정해주는 시대라기보다, 과학자가 더 좋은 질문을 던지고 더 넓은 가능성을 살펴보도록 돕는 시대가 열리고 있습니다. 바이오와 의학 분야에서도 이런 변화는 앞으로 더 중요해질 가능성이 있습니다.
 
+## 참고 출처
+
+- Gottweis, J. et al. **Accelerating scientific discovery with Co-Scientist**. *Nature* (2026). [https://www.nature.com/articles/s41586-026-10644-y](https://www.nature.com/articles/s41586-026-10644-y)
+- Google Research Blog. **Accelerating scientific breakthroughs with an AI co-scientist**. [https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)

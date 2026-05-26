@@ -14,8 +14,6 @@ AI는 이제 단순히 정보를 찾아주거나 글을 요약하는 도구를 �
 
 그 흐름을 보여주는 대표적인 사례가 **Google Co-Scientist**입니다. 이름 그대로 해석하면 "공동 과학자"라는 뜻이지만, 사람 과학자를 대신한다는 의미는 아닙니다. 오히려 과학자가 더 넓게 생각하고, 더 빠르게 가설을 검토할 수 있도록 돕는 **AI 연구 파트너**에 가깝습니다.
 
-![Google Co-Scientist 개념 이미지](../assets/co-scientist/co-scientist.png)
-
 이 글에서는 Co-Scientist가 무엇인지, 왜 이런 AI가 필요한지, 그리고 바이오·의학 연구에서 어떤 가능성을 보여주는지 일반 독자도 이해할 수 있도록 정리해보겠습니다.
 
 ## Co-Scientist란 무엇일까?
@@ -46,6 +44,8 @@ Co-Scientist는 과학자가 연구 질문을 던졌을 때, 관련 지식과 �
 
 Co-Scientist 같은 AI는 이런 넓은 범위의 지식을 연결해볼 수 있습니다. 사람이 놓칠 수 있는 연결고리를 찾고, 새로운 질문을 던지는 데 도움을 줄 수 있는 것입니다.
 
+![전통적인 연구 환경과 Co-Scientist 협업 환경 비교](../assets/co-scientist/overview.png)
+
 ## Co-Scientist는 어떻게 작동할까?
 
 Co-Scientist는 하나의 AI가 모든 일을 한 번에 처리하는 방식이라기보다, 여러 역할을 가진 AI 에이전트들이 함께 일하는 **멀티 에이전트 시스템**에 가깝습니다.
@@ -63,6 +63,8 @@ Co-Scientist는 하나의 AI가 모든 일을 한 번에 처리하는 방식이�
 
 이 과정은 과학자들이 연구실 회의에서 아이디어를 내고, 서로 질문하고, 더 나은 실험 방향을 찾아가는 모습과 비슷합니다.
 
+![Co-Scientist를 구성하는 여러 AI 에이전트 역할](../assets/co-scientist/agent-roles.png)
+
 핵심은 AI가 한 번에 정답을 내놓는 것이 아니라는 점입니다. 여러 가능성을 만들고, 비교하고, 다시 다듬는 과정을 반복하면서 더 나은 연구 방향을 찾도록 설계되어 있습니다.
 
 ## 바이오·의학 연구에서 보여준 사례
@@ -73,15 +75,21 @@ Co-Scientist 연구에서는 바이오·의학 분야의 여러 문제를 다루
 
 첫 번째 사례는 **급성 골수성 백혈병**과 관련된 약물 재창출입니다.
 
+![급성 골수성 백혈병 단일 약물 재창출 사례](../assets/co-scientist/co-scientist.png)
+
 약물 재창출은 이미 다른 질병 치료에 쓰였거나 연구된 약물을 새로운 질병 치료에 활용할 수 있는지 살펴보는 방법입니다. 완전히 새로운 약을 처음부터 만드는 것보다 개발 시간을 줄일 가능성이 있습니다.
 
 Co-Scientist는 기존 약물과 관련 연구를 바탕으로 급성 골수성 백혈병 치료에 활용할 수 있을 만한 후보를 제안했습니다. 연구에서는 일부 후보가 세포 수준의 초기 실험에서 효과를 보인 것으로 보고되었습니다.
+
+![급성 골수성 백혈병에서 다중 약물 조합을 탐색한 사례](../assets/co-scientist/case1-combination-synergy.png)
 
 다만 이 부분은 조심해서 읽어야 합니다. 세포 실험에서 효과가 있었다고 해서 곧바로 사람에게 치료제로 쓸 수 있다는 뜻은 아닙니다. 실제 치료로 이어지려면 동물실험, 전임상, 임상시험 같은 훨씬 긴 검증 과정이 필요합니다.
 
 ### 2. 간 섬유화 치료의 새로운 표적을 찾을 수 있을까?
 
 두 번째 사례는 **간 섬유화**입니다.
+
+![간 섬유화 신규 표적 발견 사례](../assets/co-scientist/case2-liver-fibrosis.png)
 
 간 섬유화는 간이 반복적으로 손상되면서 딱딱한 섬유성 조직이 쌓이는 현상입니다. 심해지면 간경변이나 간 기능 저하로 이어질 수 있습니다.
 
@@ -93,6 +101,8 @@ Co-Scientist는 간 섬유화와 관련된 새로운 후성유전학적 표적�
 
 세 번째 사례는 **항생제 내성**과 관련된 세균 유전자 이동입니다.
 
+![항생제 내성 메커니즘 재현 사례](../assets/co-scientist/case3-antibiotic-resistance.png)
+
 항생제 내성은 세균이 항생제에 죽지 않고 살아남는 능력입니다. 문제는 내성 유전자가 세균 사이에서 이동할 수 있다는 점입니다.
 
 Co-Scientist는 특정 유전 요소가 여러 세균 사이에서 어떻게 퍼질 수 있는지에 대한 메커니즘을 예측했습니다. 이후 연구자들이 독립적으로 발견한 실험 결과와 비슷한 방향의 가설을 제안했다는 점에서 주목을 받았습니다.
@@ -102,6 +112,8 @@ Co-Scientist는 특정 유전 요소가 여러 세균 사이에서 어떻게 퍼
 ## 이 연구가 보여주는 의미
 
 Co-Scientist 사례가 중요한 이유는 AI가 과학 연구에서 맡을 수 있는 역할이 달라지고 있음을 보여주기 때문입니다.
+
+![AI가 연구 가설 도출 시간을 줄이는 새로운 발견 패러다임](../assets/co-scientist/discovery-paradigm.png)
 
 | 의미 | 설명 |
 | --- | --- |
@@ -131,5 +143,4 @@ AI가 과학의 답을 대신 정해주는 시대라기보다, 과학자가 더 
 
 ## 참고 출처
 
-- Gottweis, J. et al. **Accelerating scientific discovery with Co-Scientist**. *Nature* (2026). [https://www.nature.com/articles/s41586-026-10644-y](https://www.nature.com/articles/s41586-026-10644-y)
-- Google Research Blog. **Accelerating scientific breakthroughs with an AI co-scientist**. [https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/)
+- 주 논문: Gottweis, J., Weng, W.-H., Daryin, A., Tu, T., Sirkovic, P., Myaskovsky, A., Glowaty, G., Weissenberger, F., Orlandi, A., Popovici, D., et al. **Accelerating scientific discovery with Co-Scientist**. *Nature* (2026). [https://doi.org/10.1038/s41586-026-10644-y](https://doi.org/10.1038/s41586-026-10644-y)

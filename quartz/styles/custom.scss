@@ -1,3 +1,7 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+body[data-slug="bio-ai/dna-to-bio-ai-agent"] .content-meta time {
+  display: none;
+}

@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: OK쌤의 바이오AI 랩
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: ko-KR
+  baseUrl: dhelix10-sys.github.io/okssam-quartz
   ignorePatterns:
     - private
     - templates

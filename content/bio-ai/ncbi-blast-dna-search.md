@@ -216,14 +216,3 @@ BLAST 결과를 볼 때는 다음 순서로 확인하면 좋습니다.
 NCBI는 생명 정보를 모아 놓은 데이터베이스이고, BLAST는 DNA나 단백질 서열을 검색해 비슷한 생물 또는 유전자를 찾아주는 도구입니다.
 
 교과서에서 배운 DNA 염기서열이 실제 연구 도구와 연결되는 순간, 학생들은 생명과학을 조금 더 탐구의 언어로 바라볼 수 있습니다. 기록해두면 DNA 바코딩, 질병 유전자 탐구, 생물 종 동정 수업으로 확장할 때도 도움이 됩니다.
-
-## 참고 자료
-
-- [NCBI](https://www.ncbi.nlm.nih.gov/)
-- [NCBI Nucleotide Database](https://www.ncbi.nlm.nih.gov/nucleotide/)
-- [NCBI Gene Database](https://www.ncbi.nlm.nih.gov/gene/)
-- [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-- [NCBI BLAST FAQ](https://blast.ncbi.nlm.nih.gov/doc/blast-help/FAQ.html)
-- [GenBank Overview](https://www.ncbi.nlm.nih.gov/genbank/)
-
-원문: [DNA 암호를 검색하다: NCBI와 BLAST 쉽게 이해하기](https://blog.naver.com/dhelix5/224283068479)
